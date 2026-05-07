@@ -1,0 +1,1 @@
+---回去读取 /tmp/anti-ai-writing/SKILL.md，完整内容太长无法内联显示
